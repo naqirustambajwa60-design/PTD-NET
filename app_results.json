@@ -1,0 +1,16 @@
+{
+ "model": "PTD-Net EfficientNet-B0, cross attention, adapted to PAD-UFES-20 (seed 0)",
+ "n_held": 792,
+ "n_malignant": 383,
+ "auc": 0.8017836281575772,
+ "sens": 0.7362924281984334,
+ "spec": 0.6772616136919315,
+ "bacc": 0.7067770209451825,
+ "thr": 0.2733965218067169,
+ "params_M": 5.812658,
+ "app_auc": 0.8018698091888131,
+ "app_agree": 1.0,
+ "cpu_ms_features": 51.57834768295288,
+ "cpu_ms_network": 88.91586065292358,
+ "cpu_threads": 2
+}
